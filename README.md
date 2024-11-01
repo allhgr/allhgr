@@ -1,6 +1,8 @@
 <br clear="both">
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&letterSpacing=-0.05em&pause=1000&color=F72F13&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B+Bem-vindo+ao+perfil!;Meu+nome+%C3%A9+Allison!+%F0%9F%98%84" alt="Typing SVG" /></a>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&letterSpacing=-0.05em&pause=1000&color=F72F13&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B+Bem-vindo+ao+perfil!;Meu+nome+%C3%A9+Allison!+%F0%9F%98%84" alt="Typing SVG" /></a>
 
 <p align="left">✨ Programador Iniciante!<br>📚 Atualmente estou cursando Técnico em Desenvolvimento de Sistemas!<br>🎯 Foco para melhorar minha aprendizagem!<br>🎲 Faço projetos em busca de evolução!</p>
 
